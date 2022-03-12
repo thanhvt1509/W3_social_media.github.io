@@ -9,7 +9,7 @@
 }
 
 /* PC && Tablet */
-@media(min-width: 46.25em) and (min-width: 64em) {
+@media(min-width: 46.25em) and (max-width: 64em) {
     #content .content-left {
         margin-left: 16px;
     }
